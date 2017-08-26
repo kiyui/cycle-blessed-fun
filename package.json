@@ -1,0 +1,24 @@
+{
+  "name": "cycle-blessed-fun",
+  "version": "1.0.0",
+  "description": "A Cycle.js application using blessed developed for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TimurKiyivinski/cycle-blessed-fun.git"
+  },
+  "keywords": [
+    "blessed",
+    "random",
+    "cycle"
+  ],
+  "author": "Timur Kiyivinski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TimurKiyivinski/cycle-blessed-fun/issues"
+  },
+  "homepage": "https://github.com/TimurKiyivinski/cycle-blessed-fun#readme"
+}
